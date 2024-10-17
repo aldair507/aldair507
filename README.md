@@ -84,8 +84,7 @@
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aldairtorres507@gmail.com" target="_blank">
             aldairtorres507@gmail.com
         </a>
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" width="20" style="vertical-align: middle; margin-left: 5px;"/>
-    </li>
+        </li>
     <li>🔗 LinkedIn: <a href="https://linkedin.com/in/aldair507" target="_blank">LinkedIn</a></li>
     <li>🌐 Portafolio: <a href="https://miportafolio.com" target="_blank">Mi Sitio Web</a></li>
 </ul>
