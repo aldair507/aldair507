@@ -19,6 +19,7 @@ Descripción breve del proyecto, las tecnologías utilizadas, y el impacto que t
 Correo: aldairtorres507@gmail.com
 LinkedIn: LinkedIn
 Portafolio: Mi Sitio Web
+
 🌱 Actualmente Aprendiendo
 Me encuentro mejorando mis habilidades en DevOps, particularmente en el manejo de Kubernetes y la integración de flujos de trabajo CI/CD.
 
