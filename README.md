@@ -4,7 +4,7 @@
    
 <body>
 
-<h1>👋 Hola, soy Jose Aldair Torres!</h1>
+<h1>👋 Hola, soy Jose Aldair Torres Angulo!</h1>
 <p>Soy un desarrollador full-stack apasionado por la tecnología y la creación de soluciones innovadoras. Cuento con un 1 de experiencia en el desarrollo web, con un enfoque particular en backend y bases de datos. Siempre estoy buscando nuevas oportunidades para aprender, mejorar mis habilidades y contribuir a proyectos que hagan una diferencia.</p>
 
 
